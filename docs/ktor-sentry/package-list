@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dev.floofy.ktor.plugins////PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/index.html
+$dokka.location:dev.floofy.ktor.plugins/Configuration///PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration/index.html
+$dokka.location:dev.floofy.ktor.plugins/Configuration/Configuration/#kotlin.Function1[io.sentry.SentryOptions,kotlin.Unit]?#kotlin.String/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration/-configuration.html
+$dokka.location:dev.floofy.ktor.plugins/Configuration/configure/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration/configure.html
+$dokka.location:dev.floofy.ktor.plugins/Configuration/dsn/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration/dsn.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder///PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/index.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder/ConfigurationBuilder/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/-configuration-builder.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder/build/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/build.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder/configure/#kotlin.Function1[io.sentry.SentryOptions,kotlin.Unit]/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/configure.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder/dsn/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/dsn.html
+$dokka.location:dev.floofy.ktor.plugins/ConfigurationBuilder/useExisting/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-configuration-builder/use-existing.html
+$dokka.location:dev.floofy.ktor.plugins/Sentry.Companion///PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-sentry/-companion/index.html
+$dokka.location:dev.floofy.ktor.plugins/Sentry.Companion/install/#io.ktor.application.ApplicationCallPipeline#kotlin.Function1[dev.floofy.ktor.plugins.ConfigurationBuilder,kotlin.Unit]/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-sentry/-companion/install.html
+$dokka.location:dev.floofy.ktor.plugins/Sentry.Companion/key/#/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-sentry/-companion/key.html
+$dokka.location:dev.floofy.ktor.plugins/Sentry///PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-sentry/index.html
+$dokka.location:dev.floofy.ktor.plugins/Sentry/Sentry/#dev.floofy.ktor.plugins.Configuration?/PointingToDeclaration/ktor-sentry/dev.floofy.ktor.plugins/-sentry/-sentry.html
+dev.floofy.ktor.plugins
+
